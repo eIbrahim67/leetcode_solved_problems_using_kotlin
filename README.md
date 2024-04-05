@@ -35,13 +35,13 @@ Happy coding! 🚀
 ## Some of My Work
 
 <p align="center">
-  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part1.png" width="100%">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_Kotlin/blob/master/part1.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part2.png" width="100%">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_Kotlin/blob/master/part2.png" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_java/blob/master/part3.png" width="100%">
+  <img src="https://github.com/eIbrahim67/leetcode_solved_problems_using_Kotlin/blob/master/part3.png" width="100%">
 </p>
